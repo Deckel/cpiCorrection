@@ -5,4 +5,3 @@ It also draws theoretical data from high mach numbers taken from NASA
 
 
 ![CPIGraph](correctionGraph.png)
-Format: ![Alt Text](url)
